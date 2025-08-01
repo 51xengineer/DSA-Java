@@ -1,0 +1,8 @@
+
+
+1. Check if an Element Exists in a Sorted Array
+2. Try Binary Search in a Sorted Array (with Even & odd both variations)
+3. Find Index of Last Element Less Than Target
+4. Find the Smallest Number in a Sorted Array
+5. Binary Search with Just 1 Element in Array
+6. Print All Mid Values (Debug Style)
